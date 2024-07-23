@@ -1,4 +1,4 @@
-# loginapp
+# Dictionary
 
 A new Flutter project.
 
